@@ -1,0 +1,9 @@
+main: me.br_.minecraft.bukkit.idfinder.IFMain
+author: BR_
+name: IDFinder
+version: 0.1
+commands:
+    id:
+        usage: This takes no parameters - it's just /<command>
+    heldid:
+        usage: This takes no parameters - it's just /<command>
